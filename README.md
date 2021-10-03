@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlguruji2020
+- 👋 Hi, I’m Sushrut Guruji
 - 👀 I’m interested in Machine Learning, Deep learning, Python.
 - 🌱 I’m currently learning Django, Flask and AWS
 - 💞️ I’m looking to collaborate on Python
